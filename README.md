@@ -12,6 +12,16 @@
 - Reset (reload) content
 - Minimal, responsive design
 
+# 🚀 live link
+▶▶ [live link](https://keycode-app.netlify.app/)
 
+
+# ⚒ installation
+To run this app locally:
+
+```bash
+git clone https://github.com/your-username/keycode-app.git
+cd keycode-app
+open index.html
 
  
