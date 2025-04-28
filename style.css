@@ -1,0 +1,50 @@
+html{
+    color-scheme: white;
+}
+body{
+    background-color: rgb(1, 6, 7);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: monospace;
+    text-align: center;
+    color: white;
+    overflow: hidden;
+    transition: background-color 0.3s, color 0.3s;
+   
+   
+
+}
+h1{
+  font-size: 3.5rem;
+}
+.toggle{
+    margin-bottom: 4rem;
+}
+.container{
+    margin-bottom: 5rem;
+}
+.result span{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 8rem;
+
+}
+button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+svg{
+    fill: white;
+}
+body.light-mode{
+    background-color: white;
+    color: black;
+   
+}
+svg.light-mode{
+    fill: black;
+}
